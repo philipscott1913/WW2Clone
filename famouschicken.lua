@@ -55,7 +55,7 @@ function library:Init(Name)
 	Nigga["2"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.SemiBold, Enum.FontStyle.Normal);
 	Nigga["2"]["Size"] = UDim2.new(0.07172, 0, 0.03467, 0);
 	Nigga["2"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
-	Nigga["2"]["Text"] = [[Fluxion]];
+	Nigga["2"]["Text"] = [[Astral]];
 	Nigga["2"]["Position"] = UDim2.new(0.00565, 0, 0.79648, 0);
 
 	Nigga["2"].MouseButton1Down:Connect(function()
